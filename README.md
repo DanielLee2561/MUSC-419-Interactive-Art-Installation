@@ -1,4 +1,4 @@
-# MUSC-419-Interactive-Art-Installation
+# MUSC 419 Interactive Art Installation
 
 **Video**
 
